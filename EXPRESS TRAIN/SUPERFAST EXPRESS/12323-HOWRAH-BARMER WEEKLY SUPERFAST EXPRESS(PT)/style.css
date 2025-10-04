@@ -1,0 +1,16 @@
+html{
+    background-color: burlywood;
+}
+
+.photo{
+    width: 500px;
+    border: 10px solid yellow;
+}
+
+.link{
+    font-size:100%;
+}
+
+h4{
+   font-size: 20px; 
+}
